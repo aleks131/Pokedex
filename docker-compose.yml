@@ -1,0 +1,8 @@
+version: '3'
+services:
+  react-app:
+    build:
+      context: .
+    ports:
+      - "2102:2102"
+    container_name: Pokemon-App

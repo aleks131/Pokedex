@@ -1,2 +1,0 @@
-# WebHandin2
-pokedex
